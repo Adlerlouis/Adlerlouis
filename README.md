@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adlerlouis
+- 👋 Hi, I’m @Adler
 - 👀 I’m interested in programming in embedded systems
 - 🌱 I’m currently learning  Freertos
 - 💞️ I’m looking to collaborate on  anything from embedded systems
