@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adler
 - 👀 I’m interested in programming in embedded systems
-- 🌱 I’m currently learning  Bash 
+- 🌱 I’m currently use Verilog,Bash 
 - 💞️ I’m looking to collaborate on  anything from embedded systems
 - 📫 How to reach me louis.adler@outlook.com
 - 😄 Pronouns: he/him
