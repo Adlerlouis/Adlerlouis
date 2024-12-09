@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adler
-- 👀 I’m interested in programming in embedded systems
+- I’m interested in programming in embedded systems
 - 🌱 I’m currently use Verilog,Bash,C/C++
-- 💞️ I’m looking to collaborate on  anything from embedded systems
+- I’m looking to collaborate on  anything from embedded systems
 - 📫 How to reach me:axel.salvador.reyes@gmail.com , louis.adler@outlook.com  
 
 
