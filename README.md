@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Adler
+- Hi, I’m @Adler
 - I’m interested in programming in embedded systems
-- 🌱 I’m currently use Verilog,Bash,C/C++
-- I’m looking to collaborate on  anything from embedded systems
-- 📫 How to reach me: Reddit u/Louis_Adler
+- I’m currently use Verilog,Bash,C/C++,and learning x86 assambler 
+- I’m looking to collaborate on  anything from embedded systems or silicon design
+- GNU/LINUX Systems Hobbyist
+- How to reach me: Reddit u/Louis_Adler
 
 
 <!---
